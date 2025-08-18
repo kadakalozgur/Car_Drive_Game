@@ -11,13 +11,19 @@
 ## 🖼️ Gameplay Previews
 
 ### 🎮 In-Game Screenshot 1
-![InGame1](TrafficGame/ScreenShots/1.png)
+![InGame1](ScreenShots/car.png)
 
 ### 🎮 In-Game Screenshot 2
-![InGame2](TrafficGame/ScreenShots/2.png)
+![InGame2](ScreenShots/cardrift.png)
 
 ### 🎮 In-Game Screenshot 3
-![InGame3](TrafficGame/ScreenShots/3.png)
+![InGame3](ScreenShots/1.png)
+
+### 🎮 In-Game Screenshot 4
+![InGame3](ScreenShots/2.png)
+
+### 🎮 In-Game Screenshot 5
+![InGame3](ScreenShots/3.png)
 
 ---
 
