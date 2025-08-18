@@ -61,10 +61,24 @@ Unity ile **Özgür Kadakal** tarafından geliştirilmiş, tek yönlü sonsuz bi
 
 ---
 
+## 📦 Assets Used | Kullanılan Assetler  
+
+This project uses the following assets from the Unity Asset Store (with modifications where noted):  
+
+Bu projede Unity Asset Store’dan alınan şu assetler kullanılmıştır (belirtilenlerde değişiklik yapılmıştır):  
+
+- 🚗 **Arcade Free Racing Car**  
+- 🚘 **Not Lonely**  
+- 🚙 **Pack_Free_Car**  
+- 🏎 **Prometer Car Control** *(Modified: Custom changes applied to improve handling)*
+
+---
+
 ## 🛠 Unity Version | Unity Sürümü
 
 - **2022.3.62f1**  
-> This project was developed and tested with **Unity 2022.3.62f1**.  
+> This project was developed and tested with **Unity 2022.3.62f1**.
+
 > Proje, **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir. Aynı veya uyumlu bir sürümle açmanız tavsiye edilir.
 
 ---
