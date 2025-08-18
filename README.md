@@ -1,3 +1,5 @@
+## 🌍 English
+
 # 🚗 Endless Traffic Runner 🎮
 
 ### - Developed by Özgür Kadakal
@@ -24,8 +26,6 @@
 ![InGame3](ScreenShots/3.png)
 
 ---
-
-## 🌍 English
 
 ### 🚗 Endless Traffic Runner
 An endless one-way traffic car game developed in Unity by **Özgür Kadakal**, featuring dynamic traffic, drift effects, and immersive sound design.  
@@ -78,6 +78,8 @@ For any feedback, questions, or suggestions, feel free to contact me:
 
 ---
 
+## 🇹🇷 Türkçe
+
 # 🚗 Sonsuz Trafik Oyunu 🎮
 
 ### - Geliştirici: Özgür Kadakal
@@ -104,8 +106,6 @@ For any feedback, questions, or suggestions, feel free to contact me:
 ![InGame3](ScreenShots/3.png)
 
 ---
-
-## 🇹🇷 Türkçe
 
 ### 🚗 Sonsuz Trafik Oyunu
 Unity ile **Özgür Kadakal** tarafından geliştirilmiş, tek yönlü sonsuz bir trafik araba oyunu, dinamik trafik ve etkileyici ses efektleri ile.  
