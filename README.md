@@ -2,8 +2,6 @@
 
 ### - Developed by Özgür Kadakal
 
-**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.  
-
 **⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.  
 
 ---
@@ -44,6 +42,69 @@ An endless one-way traffic car game developed in Unity by **Özgür Kadakal**, f
 
 ---
 
+## 📦 Assets Used  
+
+This project uses the following assets from the Unity Asset Store (with modifications where noted):  
+- 🚗 **Arcade Free Racing Car**  
+- 🚘 **Not Lonely**  
+- 🚙 **Pack_Free_Car**  
+- 🏎 **Prometer Car Control** *(Modified: Custom changes applied to improve handling)*  
+
+---
+
+## 🛠 Unity Version
+
+- **2022.3.62f1**  
+> This project was developed and tested with **Unity 2022.3.62f1**.
+
+---
+
+## ⚠️ Important Notice
+
+1. When opening the project through Unity Hub for the first time, loading may take a long time. This is normal as Unity will rebuild the Library folder.  
+2. On the first project launch, you will see an **empty scene** (no objects in the Hierarchy).  
+   To load the game objects, go to the **`Assets/Scenes/`** folder and double-click on **`SampleScene`**.  
+
+📸 **Screenshot:**  
+![OpenSampleScene](ScreenShots/4.png)  
+![OpenSampleScene](ScreenShots/5.png)  
+
+---
+
+## 📬 Contact
+
+For any feedback, questions, or suggestions, feel free to contact me:  
+📧 ozgurkreach@gmail.com  
+
+---
+
+# 🚗 Sonsuz Trafik Oyunu 🎮
+
+### - Geliştirici: Özgür Kadakal
+
+**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.  
+
+---
+
+## 🖼️ Oynanış Önizlemeleri
+
+### 🎮 Oyun İçi Görüntü 1
+![InGame1](ScreenShots/car.png)
+
+### 🎮 Oyun İçi Görüntü 2
+![InGame2](ScreenShots/cardrift.png)
+
+### 🎮 Oyun İçi Görüntü 3
+![InGame3](ScreenShots/1.png)
+
+### 🎮 Oyun İçi Görüntü 4
+![InGame3](ScreenShots/2.png)
+
+### 🎮 Oyun İçi Görüntü 5
+![InGame3](ScreenShots/3.png)
+
+---
+
 ## 🇹🇷 Türkçe
 
 ### 🚗 Sonsuz Trafik Oyunu
@@ -61,56 +122,36 @@ Unity ile **Özgür Kadakal** tarafından geliştirilmiş, tek yönlü sonsuz bi
 
 ---
 
-## 📦 Assets Used | Kullanılan Assetler  
-
-This project uses the following assets from the Unity Asset Store (with modifications where noted):  
+## 📦 Kullanılan Assetler  
 
 Bu projede Unity Asset Store’dan alınan şu assetler kullanılmıştır (belirtilenlerde değişiklik yapılmıştır):  
-
 - 🚗 **Arcade Free Racing Car**  
 - 🚘 **Not Lonely**  
 - 🚙 **Pack_Free_Car**  
-- 🏎 **Prometer Car Control** *(Modified: Custom changes applied to improve handling)*
+- 🏎 **Prometer Car Control** *(Değiştirildi: Kullanım kolaylığı için özel değişiklikler yapıldı)*  
 
 ---
 
-## 🛠 Unity Version | Unity Sürümü
+## 🛠 Unity Sürümü
 
 - **2022.3.62f1**  
-> This project was developed and tested with **Unity 2022.3.62f1**.
-
-> Proje, **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir. Aynı veya uyumlu bir sürümle açmanız tavsiye edilir.
+> Proje, **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir.
 
 ---
 
-## ⚠️ Important Notice | Önemli Uyarı
+## ⚠️ Önemli Uyarı
 
-- **English:**  
-  1. When opening the project through Unity Hub for the first time, loading may take a long time. This is normal as Unity will rebuild the Library folder.  
-  2. On the first project launch, you will see an **empty scene** (no objects in the Hierarchy).  
-     To load the game objects, go to the **`Assets/Scenes/`** folder and double-click on **`SampleScene`**.  
-     Alternatively, you can open **SampleScene** directly from Unity Hub by double-clicking it in the **Project window** once the project has loaded.  
-     Once loaded, the game will be ready to use.
+1. Projeyi Unity Hub üzerinden ilk kez açarken yüklenme süresi uzun olabilir. Bu normaldir çünkü Unity, Library klasörünü yeniden oluşturacaktır.  
+2. Proje ilk açıldığında **Hierarchy tamamen boş** görünecektir (hiç obje olmayacaktır).  
+   Oyun objelerini yüklemek için **`Assets/Scenes/`** klasörüne gidip **SampleScene** dosyasına çift tıklayın.  
 
-- **Türkçe:**  
-  1. Projeyi Unity Hub üzerinden ilk kez açarken yüklenme süresi uzun olabilir. Bu normaldir çünkü Unity, Library klasörünü yeniden oluşturacaktır.  
-  2. Proje ilk açıldığında **Hierarchy tamamen boş** görünecektir (hiç obje olmayacaktır).  
-     Oyun objelerini yüklemek için **`Assets/Scenes/`** klasörüne gidip **`SampleScene`** dosyasına çift tıklayın.  
-     Alternatif olarak, proje yüklendikten sonra Unity Hub içerisindeki **Project penceresinden** de **SampleScene**’i çift tıklayarak açabilirsiniz.  
-     Yüklendikten sonra oyun kullanıma hazırdır.
-
-📸 **Screenshot:**  
-
-![OpenSampleScene](ScreenShots/4.png)
-
-![OpenSampleScene](ScreenShots/5.png)
+📸 **Ekran Görüntüleri:**  
+![OpenSampleScene](ScreenShots/4.png)  
+![OpenSampleScene](ScreenShots/5.png)  
 
 ---
 
-## 📬 Contact | İletişim
-
-For any feedback, questions, or suggestions, feel free to contact me:  
-📧 ozgurkreach@gmail.com
+## 📬 İletişim
 
 Her türlü geri bildirim, soru veya öneri için:  
-📧 ozgurkreach@gmail.com  
+📧 ozgurkreach@gmail.com
