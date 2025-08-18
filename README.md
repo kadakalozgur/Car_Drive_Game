@@ -38,7 +38,10 @@ An endless one-way traffic car game developed in Unity by **Özgür Kadakal**, f
 - 🏁 Game Over screen with "Try Again" button  
 - ⏸ Pause the game with **ESC** key  
 - 🛞 Realistic wheel rotation and asphalt tire marks  
-- 🎮 Smooth car controls and responsive gameplay  
+- 🎮 Smooth car controls and responsive gameplay
+
+🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
+📌 *All code and assets are original.*
 
 ---
 
@@ -118,7 +121,10 @@ Unity ile **Özgür Kadakal** tarafından geliştirilmiş, tek yönlü sonsuz bi
 - 🏁 Game Over ekranı ve "Try Again" butonu  
 - ⏸ **ESC** tuşu ile oyunu duraklatma  
 - 🛞 Lastiklerin gerçekçi dönme animasyonu ve asfalt izleri  
-- 🎮 Akıcı araba kontrolleri ve responsive oynanış  
+- 🎮 Akıcı araba kontrolleri ve responsive oynanış
+
+🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
+📌 *Tüm kodlar ve içerikler özgündür.*
 
 ---
 
