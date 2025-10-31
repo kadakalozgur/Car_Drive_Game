@@ -1,6 +1,6 @@
 ## 🌍 English
 
-# 🚗 Endless Traffic Runne 🎮
+# 🚗 Endless Traffic Runner 🎮
 
 ### - Developed by Özgür Kadakal
 
